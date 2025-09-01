@@ -1,0 +1,28 @@
+# Runtime web framework
+fastapi
+uvicorn
+
+
+# HTTP + parsing
+requests
+beautifulsoup4
+
+
+# LangChain + OpenAI toolchain
+langchain
+langchain-openai
+langchain-chroma
+openai
+
+
+# Vector store
+chromadb
+
+
+# Models / typing (compat with FastAPI + LC)
+pydantic
+typing_extensions
+
+
+# Optional but commonly useful for token handling
+# tiktoken>=0.7.0,<1.0.0
